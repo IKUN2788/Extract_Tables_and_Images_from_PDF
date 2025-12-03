@@ -1,3 +1,5 @@
+<img width="1796" height="987" alt="image" src="https://github.com/user-attachments/assets/7df22bec-47ab-4d27-ad7d-d2523f95f71b" />
+
 # PDF 表格与图片提取工具
 
 这是一个基于 Python 和 Streamlit 开发的 Web 应用程序，旨在帮助用户轻松从 PDF 文件中提取表格和图片。
